@@ -18,3 +18,14 @@ i.e. the user can learn about the functionalities(usage) of the product by inter
 ### Technology Stack:
 * Unity(Application building),Blender(Creating 3D models),Vuforia (Augmented Reality sdk),
 Google Firebase(Cloud Storage),Language: C#
+
+### Overview Diagram:
+<img width="801" alt="image" src="https://github.com/babruwadunnati/AR-Guido/assets/40277323/f0450d16-a999-404c-b6b3-f5cd9d19ec68">
+
+### Usecase Diagram:
+<img width="801" alt="image" src="https://github.com/babruwadunnati/AR-Guido/assets/40277323/a241c2b6-d29a-424d-bb30-b4ed86775bc6">
+
+### Implementation (Prototype Version 1.0):
+<img width="801" alt="image" src="https://github.com/babruwadunnati/AR-Guido/assets/40277323/b54223e2-90a3-475d-aab6-c12adc8fc141">
+
+
