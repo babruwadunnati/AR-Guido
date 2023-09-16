@@ -20,12 +20,15 @@ i.e. the user can learn about the functionalities(usage) of the product by inter
 Google Firebase(Cloud Storage),Language: C#
 
 ### Overview Diagram:
-<img width="801" alt="image" src="https://github.com/babruwadunnati/AR-Guido/assets/40277323/f0450d16-a999-404c-b6b3-f5cd9d19ec68">
+<img width="795" alt="image" src="https://github.com/babruwadunnati/AR-Guido/assets/40277323/7637adc1-9559-4a38-91fd-ea32e16939b8">
+
 
 ### Usecase Diagram:
-<img width="801" alt="image" src="https://github.com/babruwadunnati/AR-Guido/assets/40277323/a241c2b6-d29a-424d-bb30-b4ed86775bc6">
+<img width="581" alt="image" src="https://github.com/babruwadunnati/AR-Guido/assets/40277323/eb538149-2471-41ff-9ddc-504c258ff5e0">
+
 
 ### Implementation (Prototype Version 1.0):
-<img width="801" alt="image" src="https://github.com/babruwadunnati/AR-Guido/assets/40277323/b54223e2-90a3-475d-aab6-c12adc8fc141">
+<img width="763" alt="image" src="https://github.com/babruwadunnati/AR-Guido/assets/40277323/f5438780-20bf-4ff5-a2c2-901f6a99b55d">
+
 
 
