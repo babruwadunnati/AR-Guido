@@ -1,0 +1,37 @@
+{
+ "alpha-strength": 1.0,
+ "alpha-texture": "",
+ "diffuse-color": {
+  "0": 1.0,
+  "1": 1.0,
+  "2": 1.0,
+  "3": 1.0
+ },
+ "diffuse-texture": "6798669245724541023",
+ "emission-color": {
+  "0": 1.0,
+  "1": 1.0,
+  "2": 1.0,
+  "3": 1.0
+ },
+ "emission-strength": 0.0,
+ "emission-texture": "",
+ "metallicness": 0.0,
+ "metallicness-texture": "",
+ "normal-strength": 1.0,
+ "normal-texture": "",
+ "roughness": 0.0,
+ "roughness-texture": "",
+ "type": 1,
+ "uv-offset": {
+  "0": 0.0,
+  "1": 0.0
+ },
+ "uv-scale": {
+  "0": 1.0,
+  "1": 1.0
+ },
+ "video-autoplay": false,
+ "video-loop": false,
+ "video-texture": ""
+}

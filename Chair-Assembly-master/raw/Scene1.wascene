@@ -1,0 +1,995 @@
+{
+ "scene": {
+  "ambientColor": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": 0.5
+  },
+  "ambientIntensity": 1.0,
+  "assets": {
+   "10943669515546020307": {
+    "name": "ButtonScript.js",
+    "type": 5
+   },
+   "14429704069731273242": {
+    "name": "targetImage.png",
+    "type": 4
+   },
+   "14827311861267493274": {
+    "name": "Chair.gltf",
+    "type": 1
+   },
+   "15380768840273192981": {
+    "name": "ChairScript.js",
+    "type": 5
+   },
+   "3754371428200010004": {
+    "name": "ButtonMaterial.wamat",
+    "type": 6
+   },
+   "5272976526422602873": {
+    "name": "Button.png",
+    "type": 4
+   },
+   "6798669245724541023": {
+    "name": "ChairTexture.jpg",
+    "type": 4
+   },
+   "7332082102879755159": {
+    "name": "lambert2.wamat",
+    "type": 6
+   }
+  },
+  "containers": {
+   "36": {
+    "children": {
+     "37": {
+      "children": {
+       "38": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 18,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "12"
+       },
+       "39": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 16,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "13"
+       },
+       "40": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 23,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "14"
+       },
+       "41": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 17,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "15"
+       },
+       "42": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 14,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "16"
+       },
+       "43": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 4,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "17"
+       },
+       "44": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 5,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "18"
+       },
+       "45": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 6,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "19"
+       },
+       "46": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 19,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "1"
+       },
+       "47": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 7,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "20"
+       },
+       "48": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 8,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "21"
+       },
+       "49": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 9,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "22"
+       },
+       "50": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 10,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "23"
+       },
+       "51": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 22,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "24"
+       },
+       "52": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 11,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "25"
+       },
+       "53": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 20,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "2"
+       },
+       "54": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 15,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "3"
+       },
+       "55": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 12,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "4"
+       },
+       "56": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 13,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "5"
+       },
+       "57": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 21,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "6"
+       },
+       "58": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 2,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "7"
+       },
+       "59": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 3,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "8"
+       },
+       "60": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 24,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "9"
+       },
+       "61": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 1,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "10"
+       },
+       "62": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7332082102879755159",
+           "name": "lambert2.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 25,
+          "meshID": "14827311861267493274"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1128.5419921875,
+           "y": -1.15057356003812e-11,
+           "z": -9.48199556205509e-07
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "name": "11"
+       }
+      },
+      "components": {
+       "modelRoot": "14827311861267493274",
+       "script": {
+        "15380768840273192981": null
+       },
+       "transform": {
+        "localPosition": {
+         "x": 0.0112165100872517,
+         "y": 1.24781408317176e-07,
+         "z": -0.0196901168674231
+        },
+        "localRotation": {
+         "w": 0.0102772852405906,
+         "x": -9.87201929092407e-08,
+         "y": 1.78813934326172e-07,
+         "z": -0.999947369098663
+        },
+        "localScale": {
+         "x": 0.00748544558882713,
+         "y": 0.00748544558882713,
+         "z": 0.00748544558882713
+        }
+       }
+      },
+      "name": "Chair"
+     },
+     "63": {
+      "children": {
+       "64": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "3754371428200010004",
+           "name": "ButtonMaterial.wamat"
+          }
+         },
+         "modelRoot": "DefaultPlane",
+         "script": {
+          "10943669515546020307": null
+         },
+         "transform": {
+          "localPosition": {
+           "x": -0.933577418327332,
+           "y": 0.489002257585526,
+           "z": 0.38282310962677
+          },
+          "localRotation": {
+           "w": 0.540595948696136,
+           "x": -0.230159342288971,
+           "y": -0.793862700462341,
+           "z": 0.156731426715851
+          },
+          "localScale": {
+           "x": 0.424134314060211,
+           "y": 0.424134314060211,
+           "z": 0.424134314060211
+          }
+         }
+        },
+        "name": "plane"
+       }
+      },
+      "components": {
+       "light": {
+        "angle": 45.5,
+        "color": {
+         "x": 1.0,
+         "y": 1.0,
+         "z": 1.0
+        },
+        "intensity": 3.65899991989136,
+        "range": 0.5,
+        "type": 1
+       },
+       "transform": {
+        "localPosition": {
+         "x": -0.851528704166412,
+         "y": 0.0,
+         "z": 0.0
+        },
+        "localRotation": {
+         "w": -0.540595889091492,
+         "x": -0.230159342288971,
+         "y": -0.793862700462341,
+         "z": 0.156731471419334
+        },
+        "localScale": {
+         "x": 1.0,
+         "y": 1.0,
+         "z": 1.0
+        }
+       }
+      },
+      "name": "Directional Light"
+     }
+    },
+    "components": {
+     "transform": {
+      "localPosition": {
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      "localRotation": {
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      "localScale": {
+       "x": 1.0,
+       "y": 1.0,
+       "z": 1.0
+      }
+     }
+    },
+    "name": "Scene Root"
+   }
+  },
+  "targetImage": "14429704069731273242"
+ }
+}
